@@ -1,3 +1,8 @@
+'''
+Write a function to find the longest common prefix string amongst an array of strings.
+'''
+
+
 strs = ['hibc','hidf','hihh','haj']
 str1 = strs[0]
 k = 0
